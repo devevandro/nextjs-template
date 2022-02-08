@@ -1,0 +1,6 @@
+{
+  "presents": ["next/babel"],
+  "plugins": [
+    "inline-react-svg"
+  ]
+}
